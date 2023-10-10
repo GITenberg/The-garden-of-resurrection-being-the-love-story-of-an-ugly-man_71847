@@ -1,0 +1,33 @@
+_repo: The-garden-of-resurrection-being-the-love-story-of-an-ugly-man_71847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thurston, E. Temple (Ernest Temple)
+    aliases:
+    - Thurston, Ernest Temple
+    - Thurston, Temple
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '7023'
+    url: http://www.gutenberg.org/2009/agents/7023
+    wikipedia: http://en.wikipedia.org/wiki/E._Temple_Thurston
+description: ''
+gutenberg_issued: '2023-10-10'
+identifiers:
+  gutenberg: '71847'
+language: en
+pgterms:marc904: https://archive.org/details/gardenofresurrec00thuriala/page/n5/mode/2up
+pgterms:marc905: 20200818211458thurston
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Charlene Taylor, Mary Glenn Krause, Graeme Mackreth and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bMitchell Kennerley, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The garden of resurrection: being the love story of an ugly man'
+url: http://www.gutenberg.org/ebooks/71847
