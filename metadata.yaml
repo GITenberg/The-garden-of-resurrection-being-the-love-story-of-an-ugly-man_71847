@@ -1,5 +1,8 @@
 _repo: The-garden-of-resurrection-being-the-love-story-of-an-ugly-man_71847
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71847-h/images/cover.jpg
 creator:
   author:
     agent_name: Thurston, E. Temple (Ernest Temple)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7023
     wikipedia: http://en.wikipedia.org/wiki/E._Temple_Thurston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71847#The-garden-of-resurrection-being-the-love-story-of-an-ugly-man
 gutenberg_issued: '2023-10-10'
 identifiers:
   gutenberg: '71847'
